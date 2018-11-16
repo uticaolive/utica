@@ -43,6 +43,12 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
+.histoire {
+  font-size: 1.1em;
+  font-weight: bold;
+  padding-top: 0;
+}
+
 .bg-primary {
   background-color: #A8B242!important;
 }
