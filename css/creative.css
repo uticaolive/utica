@@ -52,8 +52,17 @@ h6 {
 .bg-primary {
   background-color: #A8B242!important;
 }
+.bg-sell {
+  background-color: #A8B242!important;
+}
+.bg-sell:hover {
+  background-color: #FDD081!important;
+}
 .bg-dark {
   background-color: #41434F!important;
+}
+.bg-gold {
+  background-color: #FDD081!important;
 }
 
 .text-faded {
@@ -61,7 +70,11 @@ h6 {
 }
 
 section {
-  padding: 8rem 0;
+  padding: 7rem 0;
+}
+
+.story {
+  padding: 2.3rem 0;
 }
 
 .section-heading {
@@ -94,6 +107,7 @@ img::-moz-selection {
   color: #fff;
   background: transparent;
 }
+
 
 #mainNav {
   border-bottom: 4px solid rgba(222, 222,222, 1);
@@ -183,7 +197,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/header.jpg");
+  background-image: url("../img/header-min.jpg");
   background-position: center center;
   background-size: cover;
 }
@@ -233,6 +247,8 @@ header.masthead p {
   color : #FDD081 ;
   text-shadow: 2px 3px #41434F;
 }
+
+
 
 /*.portfolio-box {
   position: relative;
