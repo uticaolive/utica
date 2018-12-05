@@ -43,6 +43,10 @@ h6 {
   font-family: 'Libre Baskerville', serif;
 }
 
+h3 {
+  padding-top: 1em;
+}
+
 .histoire {
   font-size: 1.1em;
   font-weight: bold;
@@ -53,6 +57,7 @@ h6 {
   background-color: #A8B242!important;
 }
 .bg-sell {
+  margin-top: 3em;
   background-color: #A8B242!important;
 }
 .bg-sell:hover {
@@ -63,6 +68,16 @@ h6 {
 }
 .bg-gold {
   background-color: #FDD081!important;
+}
+
+.mastehead {
+  background-image: url('../img/photos/11102018-7.jpg');
+}
+.masterhead {
+  background-image: url('../img/photos/familial_min.jpg');
+}
+.mastheader {
+ background-image: url('../img/photos/thumb1.jpg'); 
 }
 
 .text-faded {
@@ -401,7 +416,3 @@ header.masthead p {
   color: white;
 }
 
-.firststory {
-  background-image: url("img/photos/utica_story.jpg")!important;
-  height: 100%;
-}
