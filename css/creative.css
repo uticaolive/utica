@@ -250,6 +250,7 @@ header.masthead p {
 }
 
 
+
 /*.portfolio-box {
   position: relative;
   display: block;
@@ -391,6 +392,16 @@ header.masthead p {
     cursor: pointer;
 }
 .social {
-  font-size: 1.6em;
+  font-size: 1.8em;
+  color: white;
   padding-bottom: 2em;
+}
+
+.legal > a {
+  color: white;
+}
+
+.firststory {
+  background-image: url("img/photos/utica_story.jpg")!important;
+  height: 100%;
 }
