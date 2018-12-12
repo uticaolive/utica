@@ -416,3 +416,18 @@ header.masthead p {
   color: white;
 }
 
+#info {
+  
+  text-align: center;
+  font-style: italic;
+}
+
+#infoprix {
+  
+  font-size: 1.3em;
+  padding: 0.4em;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color :#FDD081;
+}
+
